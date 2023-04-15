@@ -1,0 +1,32 @@
+div{
+width:629px;
+background-color: green;
+
+}
+#blok1_yaremenko:hover
+{
+    background-color: gold;
+    font-size:19mm
+}
+#blok2_yaremenko:hover
+{
+    background-color: silver;
+    font-size:19mm
+}
+#blok3_yaremenko:hover
+{
+    background-color: blue;
+    font-size:19mm
+}
+
+
+
+
+
+
+/*
+pozwala nadać określone atrybuty formatowania dla elementów,
+nad którymi znajduje się wskaźnik myszki, kiedy użytkownik
+jeszcze ich nie kliknął, tzn. nie zostały jeszcze aktywowane.
+Yaremenko Daniil
+*/
